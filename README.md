@@ -19,7 +19,7 @@
 
 **最新版:**
 
-点击右上方的Clone or Download,选择Download ZIP,打开压缩文件,打开CDE_Chinese_master目录,将里面的内容解压到**"C:\Users\\[用户名]\AppData\Roaming\CDE\Mods\"**当中,建议当使用最新版时先取消掉创意工坊中的订阅,否则游戏可能无法加载到最新版的内容,若要卸载,则删掉**"...\CDE\Mods\Data\Languages\Chinese.txt"**文件即可.
+点击右上方的Clone or Download,选择Download ZIP,打开压缩文件,打开CDE_Chinese_master目录,将里面的内容解压到"C:\Users\\[用户名]\AppData\Roaming\CDE\Mods\"当中,建议当使用最新版时先取消掉创意工坊中的订阅,否则游戏可能无法加载到最新版的内容,若要卸载,则删掉"...\CDE\Mods\Data\Languages\Chinese.txt"文件即可.
 
 ### 如何协作
 
