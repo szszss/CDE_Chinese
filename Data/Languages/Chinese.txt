@@ -1601,8 +1601,8 @@ SteamItemAlreadyBeingUploaded	Another item is already being uploaded to Steam Wo
 SteamTimedOut	超时。
 
 EnemiesInRange
-	Enemies
-	In Range
+	敌方尚未
+	脱离接触
 RunTurn
 	运 行
 	片 段
@@ -1825,7 +1825,7 @@ RadiatorEmissivityChart YAxis	发射率
 ReactionMass	燃料
 Refueler Status SomeRefueling	 (正在自动加油)
 Refueler Status AllRefueling	 (自动加油中)
-RefuelerUI Extract	Extract
+RefuelerUI Extract	抽油
 LauncherUI Launch1	发射1枚
 LauncherUI Launch5	发射5枚
 LauncherUI Launch20	发射20枚
@@ -4053,77 +4053,77 @@ ShipDesign ModuleAmmo Tooltip
 ModuleError NotOperational	使用了有问题的模块！
 ModuleError NotRadiationSafe	模块暴露在辐射危害中！
 ModuleError RadiatorInterreflection	存在不同种类的散热板相互反射的问题！
-ShipDesign ModuleTooMuchRadiation Tooltip	This module experiences %s of radiation annually, above the annual limit of %s!
-ShipDesign ModuleNotEnoughPower Tooltip	Only %s of power is supplied, but this module requires %s!
+ShipDesign ModuleTooMuchRadiation Tooltip	这个模块承受着%s的年均辐射剂量，超过了年均辐射剂量限值%s！
+ShipDesign ModuleNotEnoughPower Tooltip	这个模块只能获得%s电力供应，而它的需求是%s！
 ShipDesign ModuleRadiatorEfficiency Tooltip	
 	散热板的效率由于彼此之间相互反射而降低。
 	降低单个散热板模块的数量，并将散热板分散在船体的不同部位。
 ShipDesign ModuleIsCooled Tooltip	模块可以正常散热。
-ShipDesign ModuleExcessHeat Tooltip	%s of excess heat needs to be radiated away!
+ShipDesign ModuleExcessHeat Tooltip	%s超出的热量需要被散热器散发出去！
 ShipDesign ModuleHeatEmitted Tooltip	
-	%s of excess heat emitted from %s.
-	This module will remove %s heat per radiator.
-ModuleDesign MustSelectModuleToEdit Tooltip	You need to select a module design to make changes to it.
-ModuleDesign ModuleDesignLocked Tooltip	Creating and editing new module designs, or viewing the internals of pre-existing module designs, is locked until you can play the mission '%s'.
-ModuleDesign DeleteModule Tooltip	Deletes this module design.
-ModuleDesign CantDeleteCoreModule Tooltip	Can't delete Core Game modules.
-ModuleDesign CantDeleteDependentModule Tooltip	Can't delete this module due to dependencies:
-ExplosiveUI Detonate Tooltip	Manually triggers the explosive.
-LaserFluenceChart Tooltip	Intensity At Ranges
-NuclearPayloadUI Detonate Tooltip	Manually triggers the nuclear device.
-NuclearPayloadUI IgnoreMinimumRange Tooltip	If enabled, will ignore how close friendly capital ships are when detonating.
-NuclearPayloadUI DelayedTrigger Tooltip	If enabled, once proximity trigger is hit, there will be a short delay before detonating.
-PropellantTankUI EjectWhenEmpty Tooltip	Automatically discards the tank when empty.
-PropellantTankUI Eject Tooltip	Detaches and discards the external tank.
-RefuelerUI Extract Tooltip	If enabled, will take fuel from out other crafts rather than put fuel into them.
-WeaponUI DodgePrediction Tooltip	If enabled, will attempt to estimate enemy's future dodges.
-WeaponUI IgnoreRange Tooltip	If enabled, this weapon will always fire, even if all targets are out of range.
-WeaponUI DistributedTargeting Tooltip	If enabled, targets will be distributed among other turrets and ships.
-InfoBox ExplosionHazard Tooltip	Indicates that this module will detonate if punctured.
-InfoBox BipropellantMassRatio Tooltip	Bipropellant mass ratio required to operate.
-InfoBox CraftSize Tooltip	Size and Dimensions
-InfoBox CraftMass Tooltip	Total Spacecraft Mass
-InfoBox CraftCost Tooltip	Total Spacecraft Cost
-InfoBox CraftHeatSignature Tooltip	Decoy Flares must exceed the heat signature to mask this craft. Peak heat is with all engines and weapons firing.
-InfoBox CraftArmor Tooltip	Armor Layers
-InfoBox CraftPayload Tooltip	Ordnance
-InfoBox CraftWeapons Tooltip	Weapons Armament
-InfoBox CraftMovement Tooltip	Movement Specifics
-InfoBox CraftMassRatio Tooltip	Mass Ratio is the wet mass (total mass including propellant mass) divided by the dry mass (total mass except for propellant mass).
-InfoBox CraftDeltaV Tooltip	The delta-v which this spacecraft will start out with, assuming full propellant tanks, as well as the propellant types used.
-InfoBox CraftCrew Tooltip	Crew Required out of Crew Provided
-InfoBox PowerUsageBreakdown Tooltip	Power Usage Breakdown
-InfoBox CraftHeat Tooltip	Heat Signature Breakdown
-InfoBox MassBreakdown Tooltip	Mass Breakdown
-InfoBox CostBreakdown Tooltip	Cost Breakdown
-InfoBox ModuleAdvancedInfo Tooltip	Advanced information specific to this module type.
-InfoBox EnginePropulsionVitals Tooltip	Propulsion Vitals
-InfoBox EngineGimbalInfo Tooltip	Gimbaling Information
-InfoBox ExplosiveInfo Tooltip	Shrapnel yielded after detonation.
-InfoBox FlareInfo Tooltip	Will mask any heat signatures less than this flare's power, assuming equivalent distances.
-InfoBox FlareTime Tooltip	Total Time Flare will be usable for.
-InfoBox RadiationShield Tooltip	Radiation Shielding
-InfoBox LaserVitals Tooltip	Laser Vitals
-InfoBox LaserIntensity Tooltip	Intensity at Selected Ranges
-InfoBox ModuleHeatTransfer Tooltip	The total heat that needs to be dissipated through radiators to operate. The outlet temperature is the temperature at which the radiators will operate. Higher temperatures yield vastly more efficient radiators.
-InfoBox ModuleCrew Tooltip	The total amount of crew needed to operate or maintain this system.
-InfoBox ModuleRadiation Tooltip	The total radiation emitted that needs to be shielded against for crews.
-InfoBox ModulePower Tooltip	Total Power Required to Operate
-InfoBox ModuleMass Tooltip	Total System Mass
-InfoBox ModuleCost Tooltip	Total System Cost
-InfoBox NuclearPayload Tooltip	Detonation Information
-InfoBox Powerplant Tooltip	Powerplant Vitals
-InfoBox PropellantMassRatio Tooltip	The wet mass (mass including propellant) divided by the dry mass (mass without propellant). Your spacecraft's mass ratio can never exceed the best mass ratio of all propellant tanks. Higher density propellants have a better mass ratio.
-InfoBox PropellantArmor Tooltip	Armor for this propellant tank beyond the structure needed to contain the fluid pressure.
-InfoBox PropellantEjection Tooltip	The speed at which this module will be ejected if it is detached.
-InfoBox PropellantDetonation Tooltip	Indicates that this module will detonate if punctured.
-InfoBox Radiator Tooltip	Radiator Stats
-InfoBox RadiatorHeat Tooltip	Sample Heat Dissipation At Select Temperatures
-InfoBox Refueler Tooltip	Refueling Information
-InfoBox WeaponShot Tooltip	Shot Vitals
-InfoBox WeaponRange Tooltip	Range Estimates for Varying Sized Targets
-InfoBox WeaponReload Tooltip	Reloading Information
-InfoBox WeaponTurret Tooltip	Turret Information
+	%s超出的热量来自%s。
+	每块散热板可以散发掉%s的热量。
+ModuleDesign MustSelectModuleToEdit Tooltip	你需要选中一个模块设计然后才能编辑。
+ModuleDesign ModuleDesignLocked Tooltip	创建并编辑新的模块，或者浏览已有的模块，这个功能暂时被锁定了，在你完成战役关卡'%s'后会解锁。
+ModuleDesign DeleteModule Tooltip	删除这个模块设计。
+ModuleDesign CantDeleteCoreModule Tooltip	无法删除内置模块。
+ModuleDesign CantDeleteDependentModule Tooltip	无法删除这个模块，因为有这些东西依赖它：
+ExplosiveUI Detonate Tooltip	手动引爆爆炸物。
+LaserFluenceChart Tooltip	特定距离时的能量密度
+NuclearPayloadUI Detonate Tooltip	手动引爆核武器。
+NuclearPayloadUI IgnoreMinimumRange Tooltip	激活时，起爆时会忽略最短安全距离中是否存在友军主力舰。
+NuclearPayloadUI DelayedTrigger Tooltip	激活时，当临近引信被触发时会在起爆前有一段微小的延迟。
+PropellantTankUI EjectWhenEmpty Tooltip	当容器耗尽时自动丢弃。
+PropellantTankUI Eject Tooltip	丢弃并弹射掉容器。
+RefuelerUI Extract Tooltip	激活时，会从其他航天器中抽油而不是给他们加油。
+WeaponUI DodgePrediction Tooltip	激活时，会尝试预测敌方的规避轨迹并在瞄准时修正提前量。
+WeaponUI IgnoreRange Tooltip	激活时，武器会忽略规定射程强制开火，有时会有奇效，有时则是浪费弹药。
+WeaponUI DistributedTargeting Tooltip	激活时，会尝试瞄准多个目标开火。
+InfoBox ExplosionHazard Tooltip	这个模块被击毁时会爆炸。
+InfoBox BipropellantMassRatio Tooltip	正常运作时两种工质的质量消耗比例。
+InfoBox CraftSize Tooltip	体积和尺寸
+InfoBox CraftMass Tooltip	总航天器质量
+InfoBox CraftCost Tooltip	总航天器造价
+InfoBox CraftHeatSignature Tooltip	待机热量指航天器巡航时的热量，尖峰热量指飞船在启动所有引擎和武器时的热量。热诱弹只有在自身热量盖过发射船时才会有效。
+InfoBox CraftArmor Tooltip	装甲层
+InfoBox CraftPayload Tooltip	填装药
+InfoBox CraftWeapons Tooltip	武器装备
+InfoBox CraftMovement Tooltip	机动性能
+InfoBox CraftMassRatio Tooltip	质量比等于湿重(在装满工质时的质量)除以干重(没有填装工质时的质量)。
+InfoBox CraftDeltaV Tooltip	当飞船装满工质时的Delta-V。
+InfoBox CraftCrew Tooltip	船员需求与最大船员数
+InfoBox PowerUsageBreakdown Tooltip	电力消耗分析
+InfoBox CraftHeat Tooltip	热量产出分析
+InfoBox MassBreakdown Tooltip	质量分析
+InfoBox CostBreakdown Tooltip	造价分析
+InfoBox ModuleAdvancedInfo Tooltip	关于此模块的高级信息。
+InfoBox EnginePropulsionVitals Tooltip	关键引擎参数
+InfoBox EngineGimbalInfo Tooltip	万向节信息
+InfoBox ExplosiveInfo Tooltip	引爆后射出的破片。
+InfoBox FlareInfo Tooltip	假设剧情相等的情况下，热诱弹能够遮掩住任何强度小于热诱弹功率的热信号。
+InfoBox FlareTime Tooltip	热诱弹能够燃烧的时间。
+InfoBox RadiationShield Tooltip	隔绝辐射
+InfoBox LaserVitals Tooltip	关键激光器参数
+InfoBox LaserIntensity Tooltip	选定射程时的能量密度
+InfoBox ModuleHeatTransfer Tooltip	需要通过散热板来发散掉的热量。流出温度将会是散射板工作时的温度，更高的温度能让散射板的工作效率更高，然而过高的温度也会导致熔点低的散射板熔化掉。
+InfoBox ModuleCrew Tooltip	需要多少名船员来操作和维护这个模块，最后计算时会向上取整。
+InfoBox ModuleRadiation Tooltip	对于有人船只，模块发出的辐射必须要被隔离屏蔽以免影响船员健康。
+InfoBox ModulePower Tooltip	工作时的总电力需求
+InfoBox ModuleMass Tooltip	同系统质量
+InfoBox ModuleCost Tooltip	总系统造价
+InfoBox NuclearPayload Tooltip	爆炸效果
+InfoBox Powerplant Tooltip	关键发电机参数
+InfoBox PropellantMassRatio Tooltip	等于湿重(容器重量加工质质量)除以干重(容器质量)。航天器的质量比永远不会超过工质容器的质量比。使用密度更高的工质来获得更好的质量比。
+InfoBox PropellantArmor Tooltip	除了用于抵御工质的流体压力的必要结构以外，额外附加的用于维持抗打击性能的外壁。
+InfoBox PropellantEjection Tooltip	这个模块被丢弃时的弹射速度。
+InfoBox PropellantDetonation Tooltip	这个模块被击毁时会爆炸。
+InfoBox Radiator Tooltip	散热板参数
+InfoBox RadiatorHeat Tooltip	在特定温度下的散热性能
+InfoBox Refueler Tooltip	加燃料器信息
+InfoBox WeaponShot Tooltip	关键武器参数
+InfoBox WeaponRange Tooltip	针对不同横截面积的目标的命中射程
+InfoBox WeaponReload Tooltip	装弹机信息
+InfoBox WeaponTurret Tooltip	炮塔基座信息
 ItineraryDragger Temporal Tooltip	位置
 ItineraryDragger Tangential Tooltip	切线速度
 ItineraryDragger OutOfPlane Tooltip	离平面速度
@@ -4187,17 +4187,17 @@ Itinerary InterceptInterceptWith Tooltip	拦截
 Itinerary InterceptFlybyWith Tooltip	飞掠
 Itinerary InterceptSuccess Tooltip	%s%s于%s后。
 Itinerary InterceptFailure Tooltip	无法成功执行%s%s。
-Itinerary InterceptUseLessVelocity Tooltip	Attempt with less relative velocity or earlier on the trajectory.
-Itinerary InterceptEnemyEngage Tooltip	An enemy will engage before intercept can complete.
-Itinerary InterceptDifferentEnemy Tooltip	A different enemy will engage before intercept can complete.
-Itinerary InterceptCollision Tooltip	Collides fatally before intercept can complete.
-Itinerary InterceptOverTimeLimit Tooltip	Plotted intercept successfully, but will complete after time is up.
-Itinerary InterceptNotEnoughDeltaV Tooltip	Plotted intercept, but not enough delta-v to execute! %s needed total, only %s remaining.
+Itinerary InterceptUseLessVelocity Tooltip	尝试在更低的相对速度或更早的航线位置中进行。
+Itinerary InterceptEnemyEngage Tooltip	在拦截完成前会遭到敌舰队的攻击。
+Itinerary InterceptDifferentEnemy Tooltip	在拦截完成前会遭到另一支敌舰队的攻击。
+Itinerary InterceptCollision Tooltip	在拦截成功前会发生不可避免的撞击。
+Itinerary InterceptOverTimeLimit Tooltip	计算出了拦截航线，但无法在任务限制时间内完成。
+Itinerary InterceptNotEnoughDeltaV Tooltip	计算出了拦截航线，但没有足够的Delta-V来执行！需要%s，仅有%s。
 Itinerary InterceptRendezvous Tooltip	交会同
 Itinerary InterceptIntercept Tooltip	拦截
 Itinerary InterceptFlyby Tooltip	飞掠
-Itinerary TrajectoryPlannedLost Tooltip	Trajectory planned by %s to %s %s was lost.
-Itinerary ReinterceptLost Tooltip	Reintercept by %s to %s %s was lost.
+Itinerary TrajectoryPlannedLost Tooltip	由%规划到%s%s的航线失效。
+Itinerary ReinterceptLost Tooltip	由%s对%s%s的重拦截失败。
 Itinerary EnterStationkeeping Tooltip	进入环绕%s的稳定轨道
 Itinerary TrajectoryJoined Tooltip	%s已同%s会合
 FocusCameraOnThis Tooltip	聚焦镜头
