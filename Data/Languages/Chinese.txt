@@ -476,11 +476,11 @@ Faction Republic of the Free People ShipNames	#Array
 	无限升格号
 	偶极沙漏号
 	须臾之频号
-	雪绒氚号
+	雪绒氘号
 	物质波虹号
 	音障振波号
 	奇异乍现号
-	幸福记忆号
+	繁华之梦号
 	裂解之波号
 	太阳之歌号
 	磁能之冬号
@@ -595,9 +595,9 @@ Faction Iroquois Resurgence	易洛魁复兴会
 Faction Iroquois Resurgence AbbreviatedName	IR
 Faction Iroquois Resurgence ShipPrefix	ISF
 Faction Iroquois Resurgence Description
-	The appearance of the Iroquois Resurgence faction was a surprise to all of the human race. Roughly eighty years after the Cataclysm, after most of the factions had settled down across the solar system, the Iroquois Resurgence suddenly announced their existence, a recent offshoot of the USTA, declaring independence from their parent faction. At the point of secession, they had control of several moons of Neptune, and a few asteroids in the belt.
-	The USTA responded with threats of destruction immediately (as soon as light could carry their message, at least), but at the time, no one had invested in a space miltiary hardware. The IR-USTA war was the first all war set entirely in space, and it set the stage for all future space warfare. The USTA, using their combined experience of hundreds of years of naval, air, and ground battles, rapidly discovered that nearly everything they were used to was completely obsolete. Specifically, the logistics of maintaining a space war were several orders of magnitude more difficult to manage than ground wars. The first war was punctuated by warships getting their propellant tanks punctured, their ships stranded, out of delta-v, aluminum tombs in orbit across the solar system, and the very rare combat engagement.
-	In the end, the USTA gave up their war, and instead have devoted the following years to simple trade sanctions as retaliation. To this day, the Iroquois Resurgence remains a small but significant faction, owning various small moons and asteroids across the entire solar system.
+	易洛魁复兴会(Iroquois Resurgence)的出现对全人类来说都是个意外，在大灾变过去80年左右，所有阵营都已经将太阳系瓜分完毕时，原本是作为USTA的一部分的易洛魁复兴会突然公开宣布了他们的存在，并立刻从USTA中独立了出去，在独立时，他们控制着数颗海王星的卫星以及几颗小行星。
+	USTA几乎是同时发出了武力统一的威胁作为回应(至少是比信息传播的光速要慢一点)，然而在当时，没有人任真研发过太空军事装备，IR-USTA是第一次大规模的太空军事冲突，成为了未来的每一场太空战争的预演。USTA试图发挥他们丰富的在地球上的海陆空战争经验，但很快就发现旧的经验完全不适用于这场新型战争，特别是太空战争的后勤运作要比地面战争困难几个数量级，第一场战争最后结束于一艘又一艘的战舰在烧光了他们的工质罐后搁浅于太空中，变成了环绕太阳系天体的一个个铝棺材，真正实质发生的战斗少之又少。
+	最后USTA放弃了战争，转而采用简单的贸易制裁作为报复，时至今日，易洛魁复兴会仍是一个规模很小但实力不弱的阵营，在太阳系中控制着数颗卫星和小行星。
 Faction Iroquois Resurgence ShipNames	#Array
 	雄狮号
 	雄鹰号
@@ -619,15 +619,15 @@ Faction The Liberty Exchange	自由贸易公会
 Faction The Liberty Exchange AbbreviatedName	LE
 Faction The Liberty Exchange ShipPrefix	LSF
 Faction The Liberty Exchange Description
-	The Liberty Exchange is a loose confederation of independent moons and asteroids dedicated towards maintaining a free and neutral trade alliance. Unlike the United Sol Trade Alliance (USTA), which is an entity formed out of political ties rather than economic ties, the Liberty Exchange are actually a trade alliance.
-	It is composed of hundreds of major and minor corporations. The Liberty Exchange have been around for a long time as a loose collective of scattered firms, but have only recently considered themselves an official coalition.
-	With an almost fanatical devotion to capitalism, and a profound indifference to military warfare, they have managed to stay neutral in every conflict since the Cataclysm. However, critics are quick to point out that they have had a crucial role in funding and supplying arms to any and all sides of every conflict indiscriminately. For the sake of capitalism, of course.
-	Others have also observed that they try to avoid helping out one side too heavily in a bid to prolong conflicts. Conflicts which end too rapidly are not as profitable to them. They also have a pointed dislike of nuclear weapons, and have always voiced opposition against treaties that allow them to be used on terrestial bodies, likely because they end conflicts too quickly.
-	Interestingly enough, they were the first faction to outright reject a centralized currency, opting to only recognize cryptocurrencies: only offshoots of old Earth's Bitcoins would be accepted as legal tender. Using their tremendous economic leverage, their early adoption of all of these cryptocurrencies forced out government-backed currencies from the solar markets.
-	In keeping with their strong dislike of centralization, the Liberty Exchange has set up a sort of checks-and-balances between corporations, where the majority of member corporations will gradually weaken any other member corporation which grows too powerful. In this way, no single corporation has been able to achieve a monopoly on any market in the solar system, despite the lack of any central government oversight. It's an unstable equilibrium, where power is carefully shared between a smattering of corporations, but it has been in place for decades without failure.
-	The Liberty Exchange tend to traffic in all possible commerce, though their primary focus is on construction of terrestial cities and space stations. Arguably, their eagerness to delve in all manner of commerce, or at least refuse to restrict any types of commerce, has led them to being the primary trafficker of slavery and prostitution in the solar system.
-	'Here for the cash, not the cargo' is their motto, reflecting their so called capitalistic neutrality.
-	Their presence is scattered across the entire solar system, occupying mostly small moons and asteroids, as well as jointly controlling many smaller 'neutral zones' on many of the larger moons and planets. They have no central headquarters, being a confederation of corporations, although their largest claim is the center of commerce of the Jovian system, Memphis Facula City, on Ganymede.
+	自由贸易公会(Liberty Exchange)是一个由多个独立小行星和卫星组成的松散的邦联，其目的是相互帮助维持一个自由、中立的贸易联盟，这一点与太阳系联合贸易联盟不同，后者是一个依靠政治手段而非经济纽带来维持单一政权，而自由贸易公会则是一个地地道道的商人同盟。
+	自由贸易公会由数百个或大或小的公司组成，最初作为一个公司间维持联系的松散组织，但到最近，它才将自己的身份定位为一个正式的政治联盟。
+	作为一个坚定的资本主义联盟，以及对战争的厌恶，他们在大灾变之后的每一场冲突中都努力保持中立，然而，批评者很快就指出真相是在每一场冲突中，自由贸易公会都扮演着在幕后给冲突双方提供贷款和军火贸易的角色，对资本主义来说，这也并不让人意外。
+	更敏锐的人甚至发觉到自由贸易公会从不“偏袒”战争中的某一方，他们会避免让任何一方因为自己的“帮助”而占据过大的优势，以至于让战争过早结束，毕竟战争打得越久，他们能捞到的油水就越多。有意思的是，自由贸易公会还是太空核武器的坚定反对者，并且坚决反对使用核武器攻击有人居住的星体，这倒不太可能是因为他们善良，而是因为担心使用核武器会让战争结束得更早。
+	更有意思的是，他们是第一个公开反对人类建立单一币种的阵营，他们唯一承认和使用的货币是各种加密币，旧地球时代的比特币遗留下来的衍生品，曾被大量用于非法交易中，依仗着他们绝对的经济优势，他们在早期所做的努力终于让加密币将政府支持的币种驱逐出了太阳系市场。
+	就像他们强烈地反对中央化一样，自由贸易公会还在公司间设立了大量的制衡措施，大多数成员公司会监视市场并联合制裁那些一家独大的企业，以防止他们膨胀得过于强大，因此尽管缺乏中央政府的监管，迄今为止仍未有一家公司能垄断太阳系中的任何一个市场，这是一个不稳定的制衡，权力被谨慎地在一小撮企业间分享，但至少在这几十年中这个制度还未曾出过差错。
+	自由贸易公会努力抓住每一个商业机会，尽管他们主要的精力是投在建设供人居住的城市和太空城。颇有争议的是，由于他们对一切潜在商机的狂热执着，或者至少说他们拒绝任何一种赚钱的机会，现今他们是太阳系中的奴隶交易和黄色产业最大的经营者。
+	'交易只是手段，赚钱才是目的'是他们的座右铭，恰好说明了他们所谓的资本主义的天性。
+	他们的据点零散地分布在太阳系各地，主要都是在小卫星或小行星上，此外他们在很多较大的卫星和行星上也和其他阵营联合控制着许多小的“中立区”，作为一个公司联盟，他们没有中央化的总部，不过他们最大的领土是木卫三上的孟菲斯光斑市，那里是木星经济圈的贸易中心。
 Faction The Liberty Exchange ShipNames	#Array
 	低语之阳号
 	银河幽灵号
@@ -648,7 +648,7 @@ Faction Rogue Faction	叛军
 Faction Rogue Faction AbbreviatedName	叛军
 Faction Rogue Faction ShipPrefix	RS
 Faction Rogue Faction Description
-	It is extremely rare for high ranking military members of the Republic of Free People to turn traitor, as loyality is the most significant factor in grooming for officers. Cases of actual treason tend to be isolated incidents of extreme circumstances, and often require a multitude of factors, including sudden mental illness, and bribery or extortion by an opposing faction. The United Sol Trade Alliance is one such factions with a long history of attempting to corrupt or coerce military officers from other factions.
+	尽管忠诚是我们训练军官时最着重培养的品格，在极罕见的情况下仍有自由人民共和国高层军官叛逃的事件发生，这种事情通常都是极端情况下的个例，涉及到了许多特殊因素，比如突发性的心理疾病，乃至敌对阵营的贿赂或威胁。太阳系联合贸易联盟就长期致力于腐化、煽动他国军官。
 Faction Rogue Faction ShipNames	#Array
 	三一碎片号
 	日珥冻结号
@@ -668,11 +668,11 @@ Faction Nippon Prime	新日本国
 Faction Nippon Prime AbbreviatedName	NP
 Faction Nippon Prime ShipPrefix	NSF
 Faction Nippon Prime Description
-	Arguably the only faction to retain a single, national identity from Earth, Nippon Prime is the spacefaring evolution of the nation of Japan from Earth, and is the only faction to traces its formation to pre-Cataclysm history. Nippon Prime originally started as a right wing political party of pre-Cataclysm Japan, regularly calling for the militarization of the country, due to rising tensions with the UKPP (Unified Korean Peninsular Protectorate). The political party had substantial backing from the country's military industrial complex, it's robotics and cybernetics industries, and most of all, it's space industry.
-	When the Cataclysm happened, Nippon Prime was already well established in the solar system, with small research colonies dotting the solar system, from the moons of Uranus to the moons of Saturn, to several asteroids. And when key members Japanese leadership, including the prime minister, evacuated Earth, their rocket trying to catch the Japanese skyhook disintegrated after launch in one of the only accidental failures of Nippon Prime's nearly spotless record of perfect launches.
-	The loss of key elements of the Japanese government vastly increased the political control Nippon Prime had. In the first democratic election after that disaster, Nippon Prime gained control of a majority in the legislature, and installed their own radical prime minister. Over time, playing on fears of human extinction, promising strength and survival, Nippon Prime dissolved the democratic government and implemented a monarchy. They have maintained a strong presence across the solar system ever since.
-	Nippon Prime has major claims in the Uranus system and the Saturn system, and holds close ties to the USTA, being the primary trading partner to the USTA. They hold a few claims in the inner solar system, but that presence is rather minor compared to other factions there. As the years have passed since the first space war between the USTA and the IR, Nippon Prime has engaged in numerous successful military campaigns across the solar system, slowly subsuming smaller factions either through threat of destruction or through destruction itself.
-	They are led by the Eternal Empress Kinoshita Asami, who has apparently led Nippon Prime since it's days back on Earth, over 200 years ago. It is unclear whether Nippon Prime has developed a method of life extension that is vastly more effective than anything in existence on the market, or if Kinoshita has simply been cloned numerous times and a new Empress is unfrozen and grown to replace the old one every time the last one gets old or dies, or if the Empress is simply an extremely convincing android doppleganger created to replace the real Empress who would have died a long time ago.
+	可以说是目前唯一一个由单一的旧地球国家演变而来的阵营，新日本国(Nippon Prime)是一个从旧地球的日本演变而来的太空国家，也是唯一一个历史能追溯到大灾变之前的阵营，在大灾变之前的日本，由于同朝鲜半岛统一保护国(Unified Korean Peninsular Protectorate)之间日益增加的压力，一个叫新日本党的右翼政党踏上了政治舞台，意图恢复国家的军国主义传统，这个政党的幕后支持者是国家庞大的军工复合体、机器人工业、仿生植入物工业以及最重要的太空工业。
+	当大灾变爆发时，新日本党早已涉足太空，从土星和天王星的卫星群到数颗小行星，太阳系多处都被新日本党以科研名义建立了小型殖民地。而当包括总理大臣在内的日本领导层核心人物们撤离地球时，他们搭乘的飞往日本天钩的火箭在发射后爆炸解体了，这一意外成了在新日本党把持下的日本航天事业中，原本近乎完美无瑕的发射记录里唯一的一次致命事故。
+	日本政府核心人物们的意外身亡大大增强了新日本党的政治控制力，在灾难后的重新选举中，新日本党赢得了选举，并安置了一位激进的首相上台。随着日复一日对人类灭绝灾难的恐吓式宣传、对振兴国家救国存亡的许诺，新日本党顺利解散了民选政府，并建立了一个君主制政权，新日本党正式成为新日本国，以强硬的态度踏入了太阳系政治舞台。
+	新日本国大部分领土位于土星和天王星的卫星群，此外，作为USTA的主要贸易伙伴，他们还和USTA保持着紧密的关系，他们在小行星带以内也拥有少数几处领土，但其存在感远远弱于其他在着重经营那里的阵营，在USTA和IR的第一次太空战争过去的多年间，新日本国进行了多次针对比它弱小的阵营的军事行动，通过威胁乃至武装入侵的手段吞并了一个又一个弱小的阵营。
+	新日本国由不朽女皇木下麻美领导，此人的记录可以追溯到200年前，早在旧地球时代，她便是新日本党的领袖。她能活如此之久的原因尚未被外界所知，有人猜测新日本党/国开发了远超市面上同类的续命手段；还有一种说法是现在的女皇只不过是当初的木下的一个克隆，当旧的女皇变老或意外死亡时，新的克隆体就会被放出来接任；还有一种说法是现在的女皇其实是一个以假乱真的机器人，真的女皇早已经死去很久了。
 Faction Nippon Prime ShipNames	#Array
 	天城号
 	长门号
@@ -2075,7 +2075,7 @@ InfoBox ModuleCrew	人力消耗: %.1f
 InfoBox NuclearPayload	
 	总当量: %s
 	总能量: %s
-	百米威力: %s
+	爆炸能量分布: %s
 	综合效率: %s
 InfoBox NuclearPayloadAdvancedInfo	
 	爆炸物能量: %s
@@ -2098,7 +2098,7 @@ InfoBox Refueler
 InfoBox WeaponAmmoCost	每发弹药开销: %s
 InfoBox WeaponMuzzleVelocity	出膛速度: %s
 InfoBox WeaponSpread	散布: %s
-InfoBox WeaponAmmo	起始弹药: %i
+InfoBox WeaponAmmo	弹药基数: %i
 InfoBox WeaponTurret	
 	炮塔转速: %s °/s
 	最大角度: %s°
@@ -2233,8 +2233,8 @@ Orders Homing	追击
 Orders Homing Use	追击中
 Orders Scatter	分散
 Orders Scatter Use	分散中
-Orders NoseForward	舰首对敌
-Orders NoseForward Use	调转方向至舰首对敌
+Orders NoseForward	舰艏对敌
+Orders NoseForward Use	调转方向至舰艏对敌
 CraftsAreOutOfDeltaV	航天器用尽了Delta-V！
 CantBroadsideNoWeapons	无法侧舷对敌，舰船没有武器。
 CantRollNoRollEngines	无法横滚，舰船没有能够有效横滚的推进器。
@@ -4250,7 +4250,7 @@ Orders Regroup Tooltip	命令单位彼此靠拢，有时密集阵型也并非真
 Orders Broadside Tooltip	事实上这并非真的是侧舷对敌，而是让你的船调转方向得以让射程最远的武器获得一个对最近的敌舰的清晰射界，由于大部分舰船将武器安装在侧舷，因此这被称为侧舷对敌。
 Orders Homing Tooltip	瞄准最大的热源开动引擎径直撞上去，你也可以用这个指令让主力舰去追击敌人，但小心别真的一头撞上去。
 Orders Scatter Tooltip	命令单位向不同的方向散开，当你面对来袭的导弹群却没有反导手段时的止损手段。
-Orders NoseForward Tooltip	命令你的战舰调转方向让舰首对敌，适合在舰首安装了固定武器的战舰，或舰首装甲区最厚的铁头。
+Orders NoseForward Tooltip	命令你的战舰调转方向让舰艏对敌，适合在舰艏安装了固定武器的战舰，或舰艏装甲区最厚的铁头。
 HighPriorityTarget Tooltip	重点目标
 DefaultPriorityTarget Tooltip	普通目标
 SomeHighPriorityTarget Tooltip	部分为重点目标
@@ -5075,7 +5075,7 @@ OrderInfoTypes Roll	横滚
 OrderInfoTypes Homing	追击
 OrderInfoTypes Scatter	分散
 OrderInfoTypes Broadside	侧舷对敌
-OrderInfoTypes NoseForward	舰首对敌
+OrderInfoTypes NoseForward	舰艏对敌
 OrderInfoTypes Other	其他
 MissilePhase Boost	加速段
 MissilePhase Midcourse	中段
@@ -5092,7 +5092,7 @@ TargetPriority ExternalTanks	外挂工质容器
 AIOrder NoOrder	无指令
 AIOrder Homing	追击
 AIOrder Broadside	侧舷对敌
-AIOrder NoseForward	舰首对敌
+AIOrder NoseForward	舰艏对敌
 AIOrder Scatter	分散
 AIOrder Roll	横滚
 ArmorShape Cylindrical	圆柱形
